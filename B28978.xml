@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Right character of a true subject profitably declaring, how every man in this time of danger ought to square all his actions, that he may neither be taxed of disobedience to the Maiesty of the King, nor want of duty to</title>
+         </titleStmt>
+         <extent>Approx. 18KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28978</idno><idno type="EEBO-CITATION">12265485</idno>
+  <idno type="VID">197442</idno>
+  <idno type="EEBO-PROQUEST">2240961007</idno>
+  
+            <idno type="STC">Wing R1502</idno>
+            <idno type="STC">Thomason v. I, pt. I, p. 150</idno>
+            <idno type="OCLC">12265485</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28978)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197442)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 246:E109, no 36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Right character of a true subject profitably declaring, how every man in this time of danger ought to square all his actions, that he may neither be taxed of disobedience to the Maiesty of the King, nor want of duty to</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+                  <note>Date of publication from Thomason Coll.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:197442:1"/>
+            <head>THE RIGHT CHARACTER OF A True Subiect, PROFITABLY DECLARING, How every man in this time of danger ought to square all his actions, that he may neither be taxed of disobedience to the Maiesty of the King, nor want of duty to the wisome of the Parliament.</head>
+            <head type="sub">A thing in these times very necessary, and of great consequence.</head>
+            <opener>
+               <dateline>
+                  <date>
+                     <add>August · 10<seg rend="sup">th</seg> 1642</add>
+                  </date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Ow difficult a thing it is to observe a mean con<g ref="char:EOLhyphen"/>cerning matters of weighty importance, and to poyse the actions of State by an impartiall judg<g ref="char:EOLhyphen"/>ment free from all respects. We may by the wri<g ref="char:EOLhyphen"/>tings of too many men, too immoderate in main<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aining their conceived opinions, plainly enough perceive. That most unhappy division so unluckily bred, and so hotly nourished betwixt His sacred Majesty and His most honourable Parlia<g ref="char:EOLhyphen"/>ment, hath also separated the minds of Subjects; one part incli<g ref="char:EOLhyphen"/>ning to this, another to that part: and it were well if they did no more then incline, for then were it possible, that by the evi<g ref="char:EOLhyphen"/>dent demonstration of some undeniable arguments their minds perverted, and too deeply grounded in their conceived opinions, might be forced from a resolved immutability: but wee now
+<pb facs="tcp:197442:2"/> see it evident, that in some men respects, in others affection, in these self-opinion, in those a peremptory resolution neither to heare, or be moved by reason, &amp; in too many the known strength of this or that side perverts judgment, and resists even verity it self, every one thinking it impossible for that part to erre, whose actions themselves allow of; nay to such an immoderate licenti<g ref="char:EOLhyphen"/>ousnesse are men grown, that they cannot speak in the behalf of the Parliament, but they must vent forth ill language against Him that is its, and should be their head too, His sacred Majesty, and as many that do well construe the actions of the King as op<g ref="char:EOLhyphen"/>posite to his Parliament, will not stick to use more then the li<g ref="char:EOLhyphen"/>berty of the subiect against both Houses of Parliament.</p>
+            <p>Although I confesse that between contradictories there can be no <hi>medium,</hi> and the affirmators and negators of the same thing cannot both erre, yet are not we competent iudges of the errour<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of these men, or if we could discern truly whose intenti<g ref="char:EOLhyphen"/>ons are right, and whose amisse, yet are we not to think, much lesse speak dishonourably of either, since it is humane to erre, and an errour ought not to condemne every one that is deceived. He indeed that could finde out such a way of reconciling these differences which should be embraced by both the differing par<g ref="char:EOLhyphen"/>ties, would do the best act for his countrey that could possibly be effected. But it is preposterous in men to diffuse into the world their severall fancies, this being somtime quite opposite to that, and one way being no longer approved then till another is heard, so are mens iudgments that shall peruse them, tossed up and down with the light wind of every the least probability, and some opinions, though in themselves weak enough, being published, come into the hands of the more ignorant vulgar, who because they are not able to pierce into their falsities, or confute them, do presently credit them, and in the behalf of them, break forth into such acts, as may prove to His Maiesty and the Parliament dangerous, and to themselves preiudiciall. Nor do some men (so free in delivering their opinions, and so confident in their fraile reasons) any other then (implicitly at least) taxe
+<pb facs="tcp:197442:2"/> the King of being seduced, and the Parliament of errour. Sure<g ref="char:EOLhyphen"/>ly I think, these men, if any, best know the way of remedy, that can see into the causes of the disease, and difference: and that surely none better are acquainted with then those between whom it fell: let us therefore not take upon us to iudge of the erring party, but pray to the Father of truth, that (let it be which it will) it may know its errour, and be converted to the truth: this wil<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> sh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w a subiects duty better then that, of which I think it will not be impertinent to say somthing at this time.</p>
+            <p>Al<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hough in the late Protestation made and published by the wo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>thy members of that honourable House of Commons is sufficiently intimated what is the true stamp of a loyall subiect, by the demonstration of what he is bound to defend and main<g ref="char:EOLhyphen"/>taine, yet it will not be, I think, unseasonable (the honour of those persons not empaired) in this time of fear and distraction, to separate the sheep from the goats, and declare what a good subiects character is, that we may learn to know him, and to di<g ref="char:EOLhyphen"/>stinguish him from both the hypocriticall pretenders of loyalty and the hot-spurs of rebellion, and affecters of civill mutinies and home-bred dissentions.</p>
+            <p>The name of subiect is of all well enough (I suppose) under stood, and imports a duty to be performed to a superiour, nor doth eminency of place or condition free any from this duty of subiection (unlesse that eminency be supreme) but rather the more obligeth him. For those that in degree are nearest to their Soveraigne, ought to be so much the more loyall, faithfull, and constant to Him, by how much they have received greater fa<g ref="char:EOLhyphen"/>vours, and more eminent dignities from Him, and His Royall Person is intrusted with them. Besides, their acts wilbe more conspicuous, and are examples whereby the vulgar wilbe either more confirmed in their allegiance, or pricked forward to a re<g ref="char:EOLhyphen"/>bellion. Treason therefore in a noble Person is a crime more dangerous to his Prince and the State, more horrid in him, and giving a greater example to the people.</p>
+            <p>A true subiect therefore (de he of what rank soever) is in his
+<pb facs="tcp:197442:3"/> conscience and by his allegiance bound with his life &amp; fortune<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to maintain the person, honour and estate of his Soveraigne a<g ref="char:EOLhyphen"/>gainst all foes, both domestick &amp; forraign. He is further bound, as not to commit himself, so also to manifest and reveal all trea<g ref="char:EOLhyphen"/>sons, plots and conspiracies tending to the destruction of his Prince, or the ruine of the State: as also to yeeld due obedience to his lawfull Magistrates the executioners of equity &amp; justice, especially Parliaments, &amp; those more generall Councels, which are called together for the good of the Church and Common<g ref="char:EOLhyphen"/>wealth, whose priviledges he ought not to infringe, or see infrin<g ref="char:EOLhyphen"/>ged, he is bound also to observe all laws by them and their pre<g ref="char:EOLhyphen"/>decessours made while they are in full force, &amp; lastly, to preserve as much as in him lies, unity and peace in Church and State. Neither doth this duty of a subiect any way inslave him, or tend to the infringement of his liberty, but rather strengtheneth that, and rendreth him more safe, secu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, and free. For it fareth not with a subiect, as with a slave or servant, whose masters and lords have all power over them whatsoever, so that they cannot with<g ref="char:EOLhyphen"/>out his leave buy, sell, or exercise any civill action, and who can impose what commands themselves please on their vassals: for upon subiects living in a free kingdome there cannot be impo<g ref="char:EOLhyphen"/>sed mulcts, taxes, or any such burdens, against their own consent and good will, private or manifested. But as the times of peace or war require, tributes, ceasements and subsidies are gathered or released, not against the universall approbation of the people, but all that can be said to be a servants, belongeth to his master, so that without his consent he may (and that unquestioned) make use of any thing that is his. Indeed if such bee the extreme necessity of the State, that without taking the subiects estates, it cannot be repaired, the King &amp; Parliament may make use of them, otherwise not. Those things which are enacted, ratified &amp; perpetuated by the cōmand of God and law of Nations, admit<g ref="char:EOLhyphen"/>ting of no repeal, unlesse such weighty causes be induced, which are able to overpoyse all contrary reasons, such, as I said, the ex<g ref="char:EOLhyphen"/>treme necessity of the State did require. For example, it was no more lawfull for <hi>Ahab</hi> to take away <hi>Naboths</hi> vineyard
+<pb facs="tcp:197442:3"/> by force, which was his owne by hereditary succession, althoug<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the s<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ituation of it were convenient and it selfe pleasant, then it was for no cause to take away his life, it ought therefore to be the ch<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>efe care of Kings, that they impose not on their Subjects grievious &amp; unlawfull taxes, which they nither can, nor are bound to bea<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, for this is not only against the liberty of a freeborne Subiect, but also against all humanity and clemency, for it is cruelty in a Mulitor to lay vpon his pack-horses more then they can ab<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y beare, much more uniust is it to afflict with unlawfull imp<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sitions thos (which tho they are not of the same dignity) yet are <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey of the same reason and liberty, by nature with our selues: first therefore it is not inconsistent with the subiects liberty, to mai<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in &amp; defend the person honour &amp; estate of his Soveraign,</p>
+            <p>For this are we bound to by the Law of God, Kings being first of divine institution &amp; not the invention of men, nor is it their meere denomination but their vnquestionable authority where<g ref="char:EOLhyphen"/>by they are made supreame, for <hi>Moses</hi> and <hi>Samuell</hi> were (though not of the s<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me title) yet of no lesse power then <hi>Saul</hi> and <hi>David,</hi> which was long a goe experementally proved, in the unheard of pu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ishment of <hi>Korah</hi> and his company, who tooke upon them to question the Legall power of <hi>Moses:</hi> it is strange to see that Christians are more apt to encline to the errours of the blinded Gen<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es and seduced Heathens, then to imbrace the truth of the Mosaicall history, and the Doctrine of the Prophets by which is evinc<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, that God alone is the author of Kingdoms, and the esta<g ref="char:EOLhyphen"/>blisher of Kings. Nay, then His owne words when he saith, <hi>Per me <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eges regnant,</hi> and <hi>huic trade &amp; illi sccptrum aufero.</hi> And S. <hi>Paul</hi> brings this as the Reason to induce us, to an orderly obedience to to t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e higher powers, for saith he, <hi>The powers that be are ordained by God.</hi> Nor is it God alone by which we are commanded to per<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orm our duty to our Prince, but the Laws of <hi>England</hi> require the same, and that upon good reason: for the King is he which ta<g ref="char:EOLhyphen"/>keth upon him to desend his Subjects liues and Estats against all opposers whatsoever: and how shall he be encouraged to defend us, if by us his honour be invaded; it is he upon whom depends
+<pb facs="tcp:197442:4"/> the due administration of the Laws, and they are the Laws which warrant our owne unto us, shall we then oppose him that by all meanes possible and honourable doth defend us. We are borne Subjects and therefore ought to obey, he a Prince, and therfo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e not to be subject, therefore to be <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>beye<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, we are Members, he the head, are the members true that conspire against the head? nay can the members subsist when the head is l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st? nor is the Kings honour and person better maintained and d<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ended, then by revea<g ref="char:EOLhyphen"/>ling and discovering those plots and conspir<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cies, which tend to the subvertion of it, and such are we b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>und to a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> well to detect in others, as not to invert in <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur selues, other<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> being able as dange<g ref="char:EOLhyphen"/>rously to invade him as our selues and our selues as guilty as o<g ref="char:EOLhyphen"/>thers, that knowing their treachery, do not to our power defeat it. For is not he a traytor that will stand still, and see his Prince wronged, when it is in his power to defend him? It is in my opi<g ref="char:EOLhyphen"/>nion the dischargment of our duty, to prevent anothers treasona<g ref="char:EOLhyphen"/>ble intents, as well as to be innocent our selues, and I thinke also to reveale treachery in another, is the best demonstration of our own innocencie: it cannot be a disparagement to us to performe our true allegiance to him who is aboue all men, and to none but God Subiect, and so is our King, let Papists and their blind guide <hi>Bellarmine</hi> averre what they please to the contrary, nor is it an ar<g ref="char:EOLhyphen"/>gument that all are not bound to obedience to a temporall Magi<g ref="char:EOLhyphen"/>strate because he can or doth erre. For is it not as apparent that spirituall ones, such as are Cardinalls, Bishops, have as oft and as grosly offended? it is therefore infalibly true, that all spirituall Rulers whatsoever as well as temporall, are Subiect and ought to be Subiect and ought to discharge their obedience to a tem<g ref="char:EOLhyphen"/>porall head, which they ought to account as supreame, and are by his power to be iudged, in all matters which by humane iu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gment can be controverted, another subiection we have of S. <hi>Austine</hi> and St. <hi>Ambrose,</hi> because say they the King <hi>Imago D<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i est,</hi> is the Image of God; <hi>ad regendum populos et corrigendum,</hi> and to such a <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>uely Image as is a King, it will be no Idoalatry to give reverence.</p>
+            <pb facs="tcp:197442:4"/>
+            <p>But although the King hath the supreame power ouer all and ought by all to be obeyed, yet can he not in his owne person excecute his whole authority he maketh use therefore of the eyes and hands of other men that through them he may easilyer see and correct enormityes; he taketh unto him the councells of his w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> s<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cts, and such whose consciences are as sincere as there iudgements searching, that thay may as well performe as know iustice, bu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> because the authors and intruducers of vice and disturb<g ref="char:EOLunhyphen"/>ances are cumming with theire crafty pollicy by secret wayes and meanes undiscerned they somtimes so conuay theyr plots thus they cannot be discuered by foresight but only by experience, and by their sence and when they are felt &amp; discouered they cannot but with unweared difficulty, and indefatigable paines be rooted out, the offenders being sometimes so grete, and so grete in favour that they cannot be strucken at, but by the perill of their impeach<g ref="char:EOLhyphen"/>ers, the safety and necessity of the state required that greter coun<g ref="char:EOLhyphen"/>celles should be called, and these are Parliaments, the happy reducers of wronges, and composers of strifes, of which all mem<g ref="char:EOLhyphen"/>bers may freely and without danger utter their opinions and votes concerning all matters in controuersy, and to which it is lawful for the meanest persons to manifest their greuances. they enioy<g ref="char:EOLhyphen"/>ing such priuledges which canot be without iniustise infringed, and these such libarty as may be a meanes to free them from all kind of wrong, and heere greatnes may be <gap reason="illegible" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eached, neither can it in its golden plumes hide the enormity of base actions: to these councels, and to all that shalbe by them enacted, if we yeeld due observance, we perform our duty to the King, they being his counsellers and advisers in matters of State, and the setlers of peace and order in the common-wealth, and their acts are to be obeyed, not questioned by subiects. For if every malignant spirit might in interpreting or observing the cōmands of coun<g ref="char:EOLhyphen"/>cels use their own liberty, what can be expected, but ruine? for where there is no order, there is confusion; and where no go<g ref="char:EOLhyphen"/>vernment is, there i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> no order, and all government requireth its co<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>relative obedience: if these be wanting, who would not ra<g ref="char:EOLhyphen"/>ther
+<pb facs="tcp:197442:5"/> wish to be the meanest subiect, then the highest ruler? if to the place of a Magistrate were annexed neither safety, nor au<g ref="char:EOLhyphen"/>thority? although the Papists themselves c<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nnot prove but that it is possible for the greatest Councels that are to erre, yet must we think it very improbable that so many men chosen out of a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l parts of the kingdome, should want si<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cerity in consci<g ref="char:EOLhyphen"/>ence, and perspicacy in iudgment. And in case that in some one thing or other they did erre, better were it to submit to that one mistake, then that every man should exe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cise the liberty of his own fancy, if sueh &amp; so many men be voluntarily slack in th to<g ref="char:EOLhyphen"/>tall performance of their d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ty, the more is their own perverse will to be blamed. Better it i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for us to p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay unto our wonderful Councellour to rectifie their actions, then our selves to iudg<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of them or condemne them.</p>
+            <p>One part of the subjects du<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y may seem to be still behind, and that a necess<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry one too, the maintaining of peace &amp; union, thing<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in this time of distraction of all men desirea<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le, and indeed it is that which maketh a nation truly happy, it is that without which heaven and earth coul<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not consist. Peace is a word which men and Angels love to heare, a modell of happinesse, the epitome of felicity, the knot of true love. The body politike is comp sed of contraries as well as the naturall body, one member being p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>one to rebell against another, and all against the head: and without the moderation of peace, which is the soul of this body, it is not pos<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ble that it should subsist: how to expresse the incomparable sweetnesse of it, ex<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eeds my po<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er. But th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y say the best way to expresse a thing is by its cont<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ary, we may best learn by misery what is happinesse, by sorrow what joy by war what is peace. But I pray God we have no occasion this way to know it. The way to attain it hath been already shewed, he that performs as he ought hi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> allegiance to his King in the prese<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vation of his person ho<g ref="char:EOLhyphen"/>nour and estate: his duty to the Parliament, in maintaining their privi<g ref="char:EOLhyphen"/>ledges, and obeying the lawes ena<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted by them, and nourisheth no treason in himselfe, but detects it in others, doth truly, rightly and sincere<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y to his p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wer maintain peace and unity, and doth fully discharge the duty of a l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yall and well-affected subiect.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
